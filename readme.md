@@ -1,6 +1,7 @@
-# These are some configs for getting Nginx and Varnish working for https. It also has the redirects to forward all traffic to https://wwww. 
+# These are some configs for getting Nginx and Varnish working for https on a DigitalOcean LEMP droplet. 
+## It also has the redirects to forward all traffic to https://wwww
 
-These are my configs from an Ubuntu LEMP Digital Ocean Droplet. 
+These are my configs from an Ubuntu LEMP Digital Ocean Droplet running Nginx, Varnish and PHP-fpm. 
 
 ![LEMP Digital Ocean Droplet](digitalocean_ubuntu_lemp_nginx_varnish_https.png)
 
